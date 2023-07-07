@@ -1,3 +1,6 @@
+# para mais informações
+https://xdsoft.net/jqplugins/datetimepicker/
+
 # jQuery DateTimePicker
 [Demo and Documentation](https://xdsoft.net/jqplugins/datetimepicker/)
 
